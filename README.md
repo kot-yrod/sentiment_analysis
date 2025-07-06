@@ -34,11 +34,11 @@ A lightweight sentiment analysis model that classifies tweets into *positive* or
 
 | Metric      | Score  |
 |-------------|--------|
-| Accuracy    | 0.8045 |
-| Precision   | 0.8024 |
-| Recall      | 0.8080 |
-| F1 Score    | 0.8052 |
-| ROC AUC     | 0.8837 |
+| Accuracy    | 0.8070 |
+| Precision   | 0.7880 |
+| Recall      | 0.8400 |
+| F1 Score    | 0.8132 |
+| ROC AUC     | 0.8910 |
 
 ---
 
